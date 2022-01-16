@@ -11,6 +11,7 @@
         "OOC8.C": "cpp",
         "OOC9.C": "cpp",
         "cctype": "cpp",
-        "ctype.h": "c"
+        "ctype.h": "c",
+        "OOC10.C": "cpp"
     }
 }

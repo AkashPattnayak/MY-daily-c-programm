@@ -6,9 +6,9 @@ int main(){
     scanf("%d %*d %d",&a,&b,&c);
     printf("%d %d %d\n\n",a,b,c);
     printf("Enter two 4-digit number\n");
-    scanf("%2d %4d",&x,&y);
+    scanf("%2d %4.0d",&x,&y);
     printf("%d %d\n\n",x,y);
-    printf("Enter two integer\n");
+    printf("Enter two integers\n");
     scanf("%d %d",&a,&b);
     printf("%d %d\n\n",a,x);
     printf("Enter a 9-digit number\n");
