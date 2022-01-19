@@ -12,6 +12,8 @@
         "OOC9.C": "cpp",
         "cctype": "cpp",
         "ctype.h": "c",
-        "OOC10.C": "cpp"
-    }
+        "OOC10.C": "cpp",
+        "SOD.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
