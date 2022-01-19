@@ -13,7 +13,8 @@
         "cctype": "cpp",
         "ctype.h": "c",
         "OOC10.C": "cpp",
-        "SOD.C": "cpp"
+        "SOD.C": "cpp",
+        "RON.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
