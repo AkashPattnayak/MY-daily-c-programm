@@ -16,7 +16,9 @@
         "SOD.C": "cpp",
         "RON.C": "cpp",
         "FIBO.C": "cpp",
-        "FUNCTION.C": "cpp"
+        "FUNCTION.C": "cpp",
+        "FIBO USING RECURTION.C": "cpp",
+        "FIBOREC.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }

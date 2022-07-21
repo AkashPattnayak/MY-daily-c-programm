@@ -3,7 +3,7 @@ int fact(int);
 int main(){
     int num,k;
     printf("Enter a number :");
-    scanf("%d",&num);
+    scanf("%D",&num);
     k=fact(num);
     printf("factorial = %d",k);
    
